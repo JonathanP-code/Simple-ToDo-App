@@ -1,6 +1,7 @@
 # ToDo App
 
 A simple and elegant To-Do app built with **SwiftUI**, designed to help users efficiently manage their tasks. The app allows users to add, mark as complete, and delete tasks, with data persistence using **UserDefaults**.
+The ToDo app is still only very simple but please feel free to implement your own ideas!
 
 ---
 
