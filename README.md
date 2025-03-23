@@ -12,6 +12,9 @@ A simple and elegant To-Do app built with **SwiftUI**, designed to help users ef
 - **Features:** Task creation, completion toggle, deletion, and data persistence.
 
 ---
+<img src="https://github.com/user-attachments/assets/504df8f4-051d-499c-a8b6-628153f14194" width="300"> <img src="https://github.com/user-attachments/assets/ac0b8f2c-1b6d-4934-9fee-4dfc52aa27cf" width="300"> <img src="https://github.com/user-attachments/assets/86362f46-bc73-4ba7-b344-e394cd27a475" width="300">
+
+---
 
 ## ✨ Features
 
