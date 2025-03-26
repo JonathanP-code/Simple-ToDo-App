@@ -12,6 +12,9 @@ The ToDo app is still only very simple but please feel free to implement your ow
 - **Storage:** UserDefaults
 - **Features:** Task creation, completion toggle, deletion, and data persistence.
 
+<a href="https://developer.apple.com/swift/"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white"></a>
+<a href="https://developer.apple.com/xcode/swiftui/"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0096FF.svg?logo=swift&logoColor=white"></a>
+
 ---
 <img src="https://github.com/user-attachments/assets/504df8f4-051d-499c-a8b6-628153f14194" width="200"> <img src="https://github.com/user-attachments/assets/ac0b8f2c-1b6d-4934-9fee-4dfc52aa27cf" width="200"> <img src="https://github.com/user-attachments/assets/86362f46-bc73-4ba7-b344-e394cd27a475" width="200">
 
